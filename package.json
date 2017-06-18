@@ -1,12 +1,9 @@
 {
   "name": "cc.array",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "title": "Array Processing And Validation Module",
   "description": "Library for processing and validating arrays.",
-  "bugs": null,
   "license": "Apache-2.0",
-  "author": null,
-  "contributors": null,
   "main": "array.js",
   "pkxDependencies": [
     "cc.type.0.1",
